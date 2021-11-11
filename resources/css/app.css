@@ -1,0 +1,16 @@
+.disabled {
+    color: #ccc;
+}
+
+.addForm {
+    padding: 20px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    margin: 20px 0;
+}
+
+.showForm {
+    border: 1px solid #ccc;
+    margin: 0 10px
+}
+
